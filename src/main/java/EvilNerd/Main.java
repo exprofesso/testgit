@@ -18,6 +18,8 @@ public class Main  {
 
       System.out.println("new version in console ");
 
+      System.out.println("test dev");
+
 
   }
 
