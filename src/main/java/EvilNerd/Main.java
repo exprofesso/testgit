@@ -14,6 +14,10 @@ public class Main  {
 
       System.out.println("add Branch dev");
 
+      // доработка выводв на консоль
+
+      System.out.println("new version in console ");
+
 
   }
 
