@@ -16,10 +16,16 @@ public class Main  {
 
       // доработка выводв на консоль
 
-      for (int i = 1; i < 5; i++){
+      for (int i = 0; i < 5; i++){
+
           System.out.println("i like java!");
+          for (int z = 0; z < 3; z++){
+              System.out.println("Hi");
+          }
       }
       System.out.println("test loop");
+
+
 
 
   }
