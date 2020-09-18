@@ -16,7 +16,9 @@ public class Main  {
 
       // доработка выводв на консоль
 
-      System.out.println("new version in console ");
+      for (int i = 1; i < 5; i++){
+          System.out.println("i like java!");
+      }
 
 
   }
