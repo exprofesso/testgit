@@ -32,6 +32,8 @@ public class Main  {
 
       System.out.println("test dev");
 
+      System.out.println("HI JAVA");
+
       // интересно куда пропала ветка
 
 
