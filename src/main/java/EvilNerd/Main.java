@@ -34,6 +34,8 @@ public class Main  {
 
       System.out.println("HI JAVA");
 
+      System.out.println("HI JAVA ULTIMATE");
+
       // интересно куда пропала ветка
 
 
